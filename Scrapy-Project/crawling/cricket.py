@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup as bs
 import json
+import pandas as pd
 
 cookies = {
     '_gcl_au': '1.1.1406136287.1745316090',
